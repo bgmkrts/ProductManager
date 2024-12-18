@@ -1,0 +1,104 @@
+{
+  "categories" : [
+    {
+      "id" : 1,
+      "categoryName":"Beverages",
+      "seoUrl":"beverages"
+    },
+    {
+      "id" : 2,
+      "categoryName":"Condiments",
+      "seoUrl":"condiments"
+    },
+
+    {
+      "id":3,
+     "categoryName":"Confections",
+      "seoUrl":"confections"
+    },
+    {
+      "id":4,
+    "categoryName":"Zadosd",
+      "seoUrl":"condiments"
+    },
+    {
+      "id":5,
+      "categoryName":"Dairy Products",
+      "seoUrl":"dairy products"
+    
+    },
+    {
+    
+      "id":6,
+      "categoryName":"Grains/Cereals",
+      "seoUrl":"grains/cereals"
+    }
+  ],
+
+  "products" : [
+    {
+      "id" : 1,
+      "categoryId":2,
+      "productName":"Chai",
+      "quantityPerUnit":"48-6 oz jarz",
+      "unitPrice":23,
+      "unitsInStock":53
+    },
+    {
+      "id" : 2,
+      "categoryId":1,
+      "productName":"Chang",
+      "quantityPerUnit":"24-12 oz bottles",
+      "unitPrice":21,
+      "unitsInStock":17
+     
+    },
+
+    {
+      "id":3,
+      "categoryId":1,
+      "productName":"Chef Anton's Cajun",
+      "quantityPerUnit":"48-6 oz jarz",
+      "unitPrice":25,
+      "unitsInStock":120
+    },
+    {
+      "id":4,
+      "categoryId":4,
+      "productName":"uncle bobs organic",
+      "quantityPerUnit":"12-  jarz",
+      "unitPrice":30,
+      "unitsInStock":15
+    },
+    {
+      "id":5,
+      "categoryId":6,
+      "productName":"nortwoods chanbeery",
+      "quantityPerUnit":"12-12 jarz",
+      "unitPrice":40,
+      "unitsInStock":100
+    
+    },
+    {
+    
+      "id":6,
+      "categoryId":3,
+      "productName":"nutty likr",
+      "quantityPerUnit":"12-15 jarz",
+      "unitPrice":86,
+      "unitsInStock":12
+    
+    },
+    {
+    
+      "id":7,
+      "categoryId":5,
+      "productName":"michi coma",
+      "quantityPerUnit":"86-12 jarz",
+      "unitPrice":87,
+      "unitsInStock":400
+    
+    }
+  ]
+  
+}
